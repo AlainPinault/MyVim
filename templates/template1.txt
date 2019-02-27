@@ -1,4 +1,4 @@
-/*
+/* this will generate a for each loop for a list of files
 :3"ayy:5"z9yy
 0"byWdW"zPf|x"bP9j
 
@@ -13,13 +13,6 @@ down.
 
 */
 
-edi
-edi-h
-edi-h-850
-edi-h-855
-edi-h-855-d
-edi-h-850-d
-edi-h-856
-edi-h-810
-edi-h-997
-edi-x12
+file1
+file2
+file3
