@@ -1,0 +1,19 @@
+:function Alladd() range
+:  let lnum = a:firstline
+:  let line = ""
+:  let csplit = ""
+:  while lnum <= a:lastline
+:    let csplit =  split(getline(lnum))
+:    for n in csplit
+:       let line = line . "\<" . n . "\>\<\/" . n . "\>"
+:    endfor
+:    call setline(lnum,line)
+:    let lnum = lnum + 1
+:  endwhile
+:endfunction
+
+:let i = 1
+:while i < 5
+:  echo "count is" i
+:  let i += 1
+:endwhile

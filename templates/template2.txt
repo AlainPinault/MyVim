@@ -1,0 +1,31 @@
+/*
+:3"ayy:5"z9yy
+0"byWdW"zP/|x"bPnx"bP3j
+
+FOR EACH | EXCLUSIVE-LOCK:
+
+  accum 1 (count).
+
+end. 
+
+display "| " @ cFileName
+        accum count 1 with down.
+down.
+
+*/
+
+def var cFileName as character format "x(20)".
+
+form cFileName 
+     with down.
+
+edi
+edi-h
+edi-h-85o
+edi-h-855
+edi-h-855-d
+edi-h-850-d
+edi-h-856
+edi-h-810
+edi-h-997
+edi-x12

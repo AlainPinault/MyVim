@@ -1,0 +1,25 @@
+/*
+:3"ayy:5"z9yy
+0"byWdW"zPf|x"bP9j
+
+FOR EACH | NO-LOCK:
+
+  accum 1 (count).
+
+end. 
+
+display accum count 1 with down.
+down.
+
+*/
+
+edi
+edi-h
+edi-h-850
+edi-h-855
+edi-h-855-d
+edi-h-850-d
+edi-h-856
+edi-h-810
+edi-h-997
+edi-x12
