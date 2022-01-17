@@ -9,8 +9,10 @@
 ### Magic has happened
 ### to undo just type u
 ### every time you press @a
+ceci est un test
 
+I just hope this is not too confusing
 
-### I just hope this is not too confusing
+another line
 
 
